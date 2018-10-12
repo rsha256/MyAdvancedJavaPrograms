@@ -1,6 +1,8 @@
 # MyAdvancedJavaPrograms
-My java programs from the advanced java course at jhu cty
+My Java programs from the Advanced Java Programming course at John Hopkins University Center for Talented Youth
 Note: This contains code from my Intro to Programming summer course. This repository is not intended for cheating or copying code. This is simply for reference and for learning purposes. Any violation of academic integrity off this code is not intended and the creator of this repository is not to be blamed for.
+
+* Here are the highlights/assignments from each unit:
 
 ## Unit 12
 - Final Project: Java FX Music Store
@@ -9,7 +11,7 @@ Note: This contains code from my Intro to Programming summer course. This reposi
 - LoanCalculator (JavaFX)
 
 ## Unit 10
-- Intro to JavaFX
+- Introduction to JavaFX
 
 ## Unit 9
 - Multithreading in Java to find a number
@@ -33,7 +35,7 @@ Note: This contains code from my Intro to Programming summer course. This reposi
 - I worked with interfaces and called random animal classes that implements the Animal class to 'make a sound'
 
 ## Unit 2
-- I made a Checking ad Savings Account class that uses the LongDate class from Assignment 1
+- I made a Checking and Savings Account class that uses the LongDate class from Assignment 1
 
 ## Unit 1
 - Inheritance of the Date class without seeing the source code of the Date class - only a UML is given
